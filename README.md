@@ -6,9 +6,9 @@ Based in Prague. Remote or hybrid. English, Czech.
 
 ## Where to find me
 
-- 🌐 [danieldimitrov.com](https://danieldimitrov.com) — about me + how to engage
-- 💼 [LinkedIn](https://linkedin.com/in/dimitrovdaniel) — professional updates
-- 🇨🇿 [Digitari.cz](https://digitari.cz) — Czech AI consultancy I co-founded
+- 🌐 [danieldimitrov.com](https://danieldimitrov.com) - about me + how to engage
+- 💼 [LinkedIn](https://linkedin.com/in/dimitrovdaniel) - professional updates
+- 🇨🇿 [Digitari.cz](https://digitari.cz) - Czech AI consultancy I co-founded
 - 📧 dan@danieldimitrov.com
 
 ## What I'm working with
