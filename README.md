@@ -1,6 +1,6 @@
 # Hi, I'm Daniel 👋
 
-**Fractional Product Lead for AI-era teams.** I support European service businesses (digital agencies, software consultancies, design and product studios) as a fractional Product Lead on their client projects. These days mostly on AI-based work.
+**AI Solutions Architect & Consultant**. I work with teams to find where AI creates value, design the solution, prototype it, and deliver it alongside engineering. Co-founder of Digitari.cz.
 
 Based in Prague. Remote or hybrid. English, Czech.
 
@@ -18,7 +18,3 @@ Based in Prague. Remote or hybrid. English, Czech.
 **Product & Delivery:** Product strategy, discovery, roadmaps, cross-functional team leadership
 
 **Engineering background:** Ruby on Rails, JavaScript, Python · 12+ years as a developer before shifting to product
-
-## About this profile
-
-Mostly forks of tools I work with day-to-day, a few experiments with current AI tooling, and older projects from my development years.
